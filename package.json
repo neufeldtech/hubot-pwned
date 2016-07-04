@@ -1,0 +1,30 @@
+{
+  "name": "hubot-pwned",
+  "version": "0.0.1",
+  "description": "Hubot interface to the https://haveibeenpwned.com/ service",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neufeldtech/hubot-pwned.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot-pwned",
+    "pwned",
+    "haveibeenpwned",
+    "haveibeenpwned.com",
+    "www.haveibeenpwned.com",
+    "email",
+    "address"
+  ],
+  "author": "Jordan Neufeld <myjc.niv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neufeldtech/hubot-pwned/issues"
+  },
+  "homepage": "https://github.com/neufeldtech/hubot-pwned#readme"
+}
