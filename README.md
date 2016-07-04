@@ -8,7 +8,7 @@ Hubot interface to the https://haveibeenpwned.com/ service.
 * Run the ```npm install``` command
 
 ```
-npm install hubot-pwned
+npm install hubot-pwned --save
 ```
 
 * Add the following code in your external-scripts.json file.
