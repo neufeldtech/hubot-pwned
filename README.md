@@ -8,13 +8,15 @@ Hubot interface to the https://haveibeenpwned.com/ service.
 * Run the ```npm install``` command
 
 ```
-npm install hubot-pwned
+npm install hubot-pwned --save
 ```
 
-* Add the following code in your external-scripts.json file.
+* Add **hubot-pwned** to the array in your external-scripts.json file.
 
 ```
-["hubot-pwned"]
+[
+  "hubot-pwned"
+]
 ```
 
 ## Usage
@@ -22,5 +24,7 @@ npm install hubot-pwned
 ```
 bin/hubot
 
-has foo@bar.com been pwned?
+hubot> has foo@bar.com been pwned?
+Yes, foo@bar.com has been pwned:
+myspace.com
 ```
