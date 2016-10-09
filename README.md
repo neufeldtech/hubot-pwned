@@ -1,5 +1,6 @@
 hubot-pwned
 ================
+[![npm version](https://badge.fury.io/js/hubot-pwned.svg)](https://badge.fury.io/js/hubot-pwned)
 
 Hubot interface to the https://haveibeenpwned.com/ service.
 ## Installation

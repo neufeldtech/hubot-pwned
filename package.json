@@ -1,8 +1,8 @@
 {
     "name": "hubot-pwned",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "description": "Hubot interface to the https://haveibeenpwned.com/ service",
-    "main": "./scripts/pwned.coffee",
+    "main": "index.coffee",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
